@@ -1,5 +1,5 @@
-# 💫 About Me:
-🪃I am a backend engineer who is currently learning and expanding my knowledge in the field of software development
+# 🔰 About Me:
+I am a backend engineer who is currently learning and expanding my knowledge in the field of software development
 
 
 ## 🌐 Socials:
