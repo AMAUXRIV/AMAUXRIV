@@ -13,7 +13,7 @@ I am a backend engineer who is currently learning and expanding my knowledge in 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAUXRIV&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/amauxriv) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/amauxriv) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
