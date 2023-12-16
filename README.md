@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amau</h1>
+<h1 align="center">Hi 👋, I'm Tama</h1>
 <h3 align="center">Backend Developer With Golang</h3>
 
 - 🌱 I’m currently learning **Cloud Computing**
