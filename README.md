@@ -2,7 +2,7 @@
 <h3 align="center">BackEnd Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AMAUXRIV&label=Profile%20views&color=0e75b6&style=flat" alt="AMAUXRIV" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AMAUXRIV&theme=" alt="AMAUXRIV" /></a> </p>
+
 
 - 🌱 I’m currently learning **Golang**
 - 💬 Ask me about **Cloud Computing**
